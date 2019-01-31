@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncPitfalls", "AsyncPitfalls\AsyncPitfalls.csproj", "{D0184550-5617-47F1-9D5A-81DAC9172F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{B23CFE43-5F4A-4DC5-86F8-9479178B6DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0184550-5617-47F1-9D5A-81DAC9172F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0184550-5617-47F1-9D5A-81DAC9172F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0184550-5617-47F1-9D5A-81DAC9172F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0184550-5617-47F1-9D5A-81DAC9172F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23CFE43-5F4A-4DC5-86F8-9479178B6DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23CFE43-5F4A-4DC5-86F8-9479178B6DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23CFE43-5F4A-4DC5-86F8-9479178B6DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23CFE43-5F4A-4DC5-86F8-9479178B6DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A1714B-2A0F-449D-A62E-F216DA31E678}
+	EndGlobalSection
+EndGlobal

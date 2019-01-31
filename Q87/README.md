@@ -1,0 +1,1 @@
+This example requires .NET Core 3.0 Preview 1 and Visual Studio 2019 Preview 1 to run because `Cs8Features` is a .NET Core 3.0 project and uses of C# 8.0 features.

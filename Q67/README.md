@@ -1,0 +1,1 @@
+`WpfApp` is a Windows specific .NET framework project and requires Visual Studio 2017 to run.

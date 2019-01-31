@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqStructure", "LinqStructure\LinqStructure.csproj", "{B8B9423B-0FED-4812-B854-16ECEA3B0F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B9423B-0FED-4812-B854-16ECEA3B0F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B9423B-0FED-4812-B854-16ECEA3B0F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B9423B-0FED-4812-B854-16ECEA3B0F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B9423B-0FED-4812-B854-16ECEA3B0F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC7D397-C54F-4F38-BD6B-157FCBE6A210}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFileOperations", "AsyncFileOperations\AsyncFileOperations.csproj", "{0561292F-F9D1-4A36-BBE5-425092C9FC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0561292F-F9D1-4A36-BBE5-425092C9FC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0561292F-F9D1-4A36-BBE5-425092C9FC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0561292F-F9D1-4A36-BBE5-425092C9FC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0561292F-F9D1-4A36-BBE5-425092C9FC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {785C2244-078B-42BB-8B80-2B9520054553}
+	EndGlobalSection
+EndGlobal

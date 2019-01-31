@@ -1,0 +1,1 @@
+Because .NET Core doesn't support `Thread.Abort()`, it is called from a separate `AbortingThreads` Windows specific .NET framework project which requires Visual Studio 2017 to run.

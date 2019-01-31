@@ -1,0 +1,1 @@
+`WindowsFormsTimer` and `WpfTimer` are Windows specific .NET framework projects and require Visual Studio 2017 to run.
